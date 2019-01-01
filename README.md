@@ -5,3 +5,6 @@
 #### 2. The previous version is simple, and its functions are limited but I will try hard to perfect it.
 #### 3. Bugs: If any, please contact me.
 #### 4. E-mail me : lsldragon@outlook.com ; 1178362914@qq.com
+#### 5. Before you use this software, please make sure you have JDK or JRE in you PC. And you can download that at https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+##### 6. JFormula v0.1.52 Download link: https://github.com/lsldragon/JFormula-0.1.52/releases
+
