@@ -9,3 +9,4 @@
 ##### 6. JFormula v0.1.52 download link: https://github.com/lsldragon/JFormula-0.1.52/releases
 
 ![avatar](screenshots/windows.JPG)
+![avatar](screenshots/linux.png)
