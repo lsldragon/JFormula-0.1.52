@@ -4,7 +4,7 @@
 #### 1. It's better for you to learn some Latex grammer, so that you can handle this software easily. FYI: https://en.wikipedia.org/wiki/LaTeX
 #### 2. The previous version is simple, and its functions are limited but I will try hard to perfect it.
 #### 3. Bugs: If any, please contact me.
-#### 4. E-mail me: lsldragon@outlook.com ; 1178362914@qq.com
+#### 4. E-mail me: lsldragon@outlook.com ;
 #### 5. Before you use this software, please make sure you have installed JRE OR JDK in you PC. And you can download that at https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html for JRE and https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html for JDK.
 ##### 6. JFormula v0.1.52 download link: https://github.com/lsldragon/JFormula-0.1.52/releases
 
